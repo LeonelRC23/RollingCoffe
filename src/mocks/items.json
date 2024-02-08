@@ -1,0 +1,28 @@
+{
+  "cafe": [
+    {
+      "nombre": "Café mericano",
+      "descripcion": "Una taza de café suave y aromático.",
+      "precio": 260,
+      "id": 1
+    },
+    {
+      "nombre": "Capuchino",
+      "descripcion": "Espuma de leche cremosa sobre un espresso fuerte.",
+      "precio": 350,
+      "id": 2
+    },
+    {
+      "nombre": "Croissant de chocolate",
+      "descripcion": "Delicioso croissant relleno de suave chocolate.",
+      "precio": 180,
+      "id": 3
+    },
+    {
+      "nombre": "Té verde",
+      "descripcion": "Té verde orgánico con un sabor suave y revitalizante",
+      "precio": 260,
+      "id": 4
+    }
+  ]
+}

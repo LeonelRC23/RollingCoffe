@@ -1,0 +1,9 @@
+footer {
+  height: 5rem;
+  background-color: #003c25;
+}
+
+footer > p {
+  color: #ffffff;
+  font-size: 1.3rem;
+}

@@ -1,0 +1,24 @@
+.contenedorImg {
+  display: flex;
+  justify-content: center;
+}
+
+.bannerInicio {
+  width: 100vw;
+  max-width: 1920px;
+  height: 500px;
+  object-fit: cover;
+}
+
+.tituloPrincipal {
+  font-size: xxx-large;
+}
+
+.productoCard {
+  height: 40rem;
+}
+
+.productoCard > img {
+  object-fit: cover;
+  height: 30rem;
+}
