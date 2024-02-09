@@ -3,24 +3,32 @@
     {
       "nombre": "Café mericano",
       "descripcion": "Una taza de café suave y aromático.",
+      "categoria": "Bebida caliente",
+      "img": "https://as01.epimg.net/deporteyvida/imagenes/2018/06/19/portada/1529402043_039778_1529402207_noticia_normal_recorte1.jpg",
       "precio": 260,
       "id": 1
     },
     {
       "nombre": "Capuchino",
       "descripcion": "Espuma de leche cremosa sobre un espresso fuerte.",
+      "categoria": "Bebida caliente",
+      "img": "https://as01.epimg.net/deporteyvida/imagenes/2018/06/19/portada/1529402043_039778_1529402207_noticia_normal_recorte1.jpg",
       "precio": 350,
       "id": 2
     },
     {
       "nombre": "Croissant de chocolate",
       "descripcion": "Delicioso croissant relleno de suave chocolate.",
+      "categoria": "Repostería",
+      "img": "https://as01.epimg.net/deporteyvida/imagenes/2018/06/19/portada/1529402043_039778_1529402207_noticia_normal_recorte1.jpg",
       "precio": 180,
       "id": 3
     },
     {
       "nombre": "Té verde",
       "descripcion": "Té verde orgánico con un sabor suave y revitalizante",
+      "categoria": "Bebida caliente",
+      "img": "https://as01.epimg.net/deporteyvida/imagenes/2018/06/19/portada/1529402043_039778_1529402207_noticia_normal_recorte1.jpg",
       "precio": 260,
       "id": 4
     }
